@@ -3,7 +3,7 @@
 	purpose: simple linux shell.
 	
 	@author Milinds Sandaruwan
-	@version 1.0 03/08/2017
+	@version 1.0 02/08/2017
 
 */
 
